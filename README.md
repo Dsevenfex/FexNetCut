@@ -70,17 +70,6 @@ Run PowerShell or Command Prompt as Administrator:
 python FexNetCut.py
 ```
 
----
-
-##  Configuration
-
-Edit the network settings if u need:
-
-```python
-SUBNET = "192.168.1.0/24"
-
-ROUTER_IP = "192.168.1.1"
-```
 
 ---
 
