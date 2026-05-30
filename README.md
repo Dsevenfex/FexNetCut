@@ -29,15 +29,28 @@
 
 ```bash
 git clone https://github.com/Dsevenfex/FexNetCut.git
-
 cd FexNetCut
 ```
 
 ### Install Dependencies
 
-```bash
-python3 -m pip install scapy
+``` bash
+python3 -m venv venv
 ```
+##### Linux && Mac
+```bash
+source venv/bin/activate
+
+pip install scapy
+```
+##### Windows
+```bash
+venv\Scripts\activate
+
+pip install scapy
+```
+
+
 
 ---
 
@@ -46,7 +59,7 @@ python3 -m pip install scapy
 ### Linux
 
 ```bash
-sudo python3 FexNetCut.py
+sudo python FexNetCut.py
 ```
 
 ### Windows
