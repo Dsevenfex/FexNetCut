@@ -61,7 +61,7 @@ python FexNetCut.py
 
 ##  Configuration
 
-Edit the network settings before running:
+Edit the network settings if u need:
 
 ```python
 SUBNET = "192.168.1.0/24"
