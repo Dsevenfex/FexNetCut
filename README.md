@@ -45,7 +45,7 @@ ROUTER_IP = "192.168.1.1"
 ### Linux
 
 ```bash
-sudo python3 scanner.py
+sudo python3 FexNetCut.py
 ```
 
 ### Windows
@@ -53,7 +53,7 @@ sudo python3 scanner.py
 Run PowerShell or Command Prompt as Administrator:
 
 ```bash
-python scanner.py
+python FexNetCut.py
 ```
 
 ---
