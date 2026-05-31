@@ -1,4 +1,7 @@
-# FexNetScan 🌐
+<div align="center">
+  <h1>FexCutNet</h1>
+  <img src="FexCutNet.gif" alt="Terminal Demo" width="600">
+</div>
 
 > A lightweight network discovery and diagnostics tool built with Python and Scapy. It helps administrators identify active hosts on a local network and inspect basic service availability for inventory and troubleshooting purposes.
 
